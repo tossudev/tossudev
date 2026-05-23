@@ -1,7 +1,8 @@
-# hello internet person!
-
-i'm glad you found my profile :)  
+### Hello!  
   
-you'll find games and game dev related things on here
+  
+I'm glad you found my profile :)  
+  
+You'll find various games and programs here ❤️  
 
 ![](https://github.com/tossudev/tossudev/blob/main/konna.gif)
